@@ -14,6 +14,6 @@ So, you might think, do they need to retain every single customer? Well, not rea
 Customer value or Customer Lifetime Value (CLV) is the total monetary value of transactions/purchases made by a customer with your business over his entire lifetime. Here the lifetime means the time period till your customer purchases with you before moving to your competitors.
 
 # Dataset Information
-In this case study, we are going to work with the online-retail dataset from the UCI Machine Learning repository.
+In this case study, we are going to work with the online-retail dataset.
 
 This is a transactional data set that contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
